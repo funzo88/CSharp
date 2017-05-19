@@ -1,0 +1,6 @@
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\verzekering\leesgetal2\bin\Debug\leesgetal2.exe.config
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\verzekering\leesgetal2\obj\Debug\leesgetal2.csprojResolveAssemblyReference.cache
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\verzekering\leesgetal2\bin\Debug\leesgetal2.exe
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\verzekering\leesgetal2\bin\Debug\leesgetal2.pdb
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\verzekering\leesgetal2\obj\Debug\leesgetal2.exe
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\verzekering\leesgetal2\obj\Debug\leesgetal2.pdb
