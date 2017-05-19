@@ -1,0 +1,6 @@
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\Dier\Dier\bin\Debug\Dier.exe.config
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\Dier\Dier\bin\Debug\Dier.exe
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\Dier\Dier\bin\Debug\Dier.pdb
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\Dier\Dier\obj\Debug\Dier.csprojResolveAssemblyReference.cache
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\Dier\Dier\obj\Debug\Dier.exe
+C:\Users\renzo\Dropbox\136991.renzo.westenbroek\CSharp\Dier\Dier\obj\Debug\Dier.pdb
